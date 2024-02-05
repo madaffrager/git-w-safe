@@ -1,3 +1,4 @@
+#We are learning GIT HERE ><
 # AngularStarter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
